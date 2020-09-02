@@ -1,0 +1,27 @@
+1st Project: What makes a metal song great?
+
+Questions to consider:
+-How many plays/dowloads does it have?
+-What type of metal is it?
+-Song length?
+-Key? Does it change keys?
+-BPM? Does it change BPM?
+-Rhythm/Meter? Does it change?
+-Date released? How fast did it grow?
+-How popular is it? What are the most popular songs, which are most unpopular?
+-What "features" do the most popular songs have?
+
+Sources we can pull from:
+-Spotify
+
+Main program to use:
+Python
+SQL (maybe)
+
+Steps:
+1. Get data into one big set. x
+2. Organize songs by popularity. x
+3. get features of songs. x
+4. Analyze popular songs. What qualities do they have?
+	-Scatter plots
+	
